@@ -48,7 +48,7 @@ root.title("REGISTRATION FORM")
 
 f1=Frame(root,bg='cyan')
 f1.pack(side=TOP,expand=TRUE,fill=BOTH)
-l1=Label(f1,text='REGISTRATION FORM',fg='blue',bg='yellow',font=60)
+l1=Label(f1,text='REGISTRATION FORM by ANISH GAUTAM',fg='blue',bg='yellow')
 l1.pack(side=TOP)
 
 #f2=Frame(root)
